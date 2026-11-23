@@ -3,6 +3,10 @@
 import os
 from pathlib import Path
 
+# Vignette: A quiet kitchen after midnight, where one floor tile is laid upside
+# down, cooler than the others, with an unglazed back stamped with a tiny raised
+# anchor pointing due north. It intrigues the reader because an ordinary room
+# hides one small unexplained detail that leaves a question hanging.
 TEXT = (
     "Past midnight, the refrigerator hums low and steady. Underneath the "
     "kitchen table, one octagonal floor tile is cooler than the others and laid "
